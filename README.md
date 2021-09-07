@@ -1,2 +1,4 @@
 # hello-world
-Funny repository
+Funny repository!
+
+This repository will be used to all test.
